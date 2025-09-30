@@ -1,10 +1,10 @@
 {
   "name": "@womorg/reiciendis-eum-voluptatum",
-  "version": "12.23.365",
+  "version": "12.23.366",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/adipisci-maxime-facilis": "^1.0.0",
